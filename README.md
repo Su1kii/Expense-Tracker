@@ -34,8 +34,7 @@ Clerk handles user registration, login, and session management. Only signed-in u
 
 ## 📸 Demo
 
-[Live Demo Not Working](https://your-vercel-deployment-url.vercel.app)
-
+[Live Demo - Not Public 🤕](https://expense-tracker-hazel-seven-88.vercel.app/)
 ![Screenshot](./public/screenshot.png)
 
 ## 📦 Installation
