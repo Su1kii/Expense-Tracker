@@ -63,19 +63,13 @@ Copy
 npx prisma generate
 Run the initial database migration:
 
-bash
-Copy
 npx prisma migrate dev --name init
 Start the development server:
 
-bash
-Copy
 npm run dev
 Your app will be running at http://localhost:3000
 
 🗂 Folder Structure
-bash
-Copy
 app/
 ├── components/         # Reusable client/server components
 ├── actions/            # Server actions (e.g., add/delete transactions)
